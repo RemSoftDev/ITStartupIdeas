@@ -1,0 +1,11 @@
+C:\Users\oleksandr.dubyna\Documents\Visual Studio 2017\Projects\ITStartupIdeas\ITStartupIdeas\bin\Debug\netcoreapp2.0\ITStartupIdeas.deps.json
+C:\Users\oleksandr.dubyna\Documents\Visual Studio 2017\Projects\ITStartupIdeas\ITStartupIdeas\bin\Debug\netcoreapp2.0\ITStartupIdeas.runtimeconfig.json
+C:\Users\oleksandr.dubyna\Documents\Visual Studio 2017\Projects\ITStartupIdeas\ITStartupIdeas\bin\Debug\netcoreapp2.0\ITStartupIdeas.runtimeconfig.dev.json
+C:\Users\oleksandr.dubyna\Documents\Visual Studio 2017\Projects\ITStartupIdeas\ITStartupIdeas\bin\Debug\netcoreapp2.0\ITStartupIdeas.dll
+C:\Users\oleksandr.dubyna\Documents\Visual Studio 2017\Projects\ITStartupIdeas\ITStartupIdeas\bin\Debug\netcoreapp2.0\ITStartupIdeas.pdb
+C:\Users\oleksandr.dubyna\Documents\Visual Studio 2017\Projects\ITStartupIdeas\ITStartupIdeas\obj\Debug\netcoreapp2.0\ITStartupIdeas.csprojResolveAssemblyReference.cache
+C:\Users\oleksandr.dubyna\Documents\Visual Studio 2017\Projects\ITStartupIdeas\ITStartupIdeas\obj\Debug\netcoreapp2.0\ITStartupIdeas.csproj.CoreCompileInputs.cache
+C:\Users\oleksandr.dubyna\Documents\Visual Studio 2017\Projects\ITStartupIdeas\ITStartupIdeas\obj\Debug\netcoreapp2.0\ITStartupIdeas.AssemblyInfoInputs.cache
+C:\Users\oleksandr.dubyna\Documents\Visual Studio 2017\Projects\ITStartupIdeas\ITStartupIdeas\obj\Debug\netcoreapp2.0\ITStartupIdeas.AssemblyInfo.cs
+C:\Users\oleksandr.dubyna\Documents\Visual Studio 2017\Projects\ITStartupIdeas\ITStartupIdeas\obj\Debug\netcoreapp2.0\ITStartupIdeas.dll
+C:\Users\oleksandr.dubyna\Documents\Visual Studio 2017\Projects\ITStartupIdeas\ITStartupIdeas\obj\Debug\netcoreapp2.0\ITStartupIdeas.pdb
